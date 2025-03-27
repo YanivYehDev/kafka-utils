@@ -1,4 +1,4 @@
-module github.com/yanivyehdev/kafka-utils
+module github.com/YanivYehDev/kafka-utils
 
 go 1.22.2
 
